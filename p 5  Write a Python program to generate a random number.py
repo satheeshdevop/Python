@@ -1,2 +1,2 @@
 import random
-print(f"Random number: {random.randint(11, 20)}")
+print(f"Random number: {random.randint(1, 6)}")
